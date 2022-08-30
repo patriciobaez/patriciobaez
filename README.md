@@ -3,11 +3,11 @@
 Full stack web developer
 
 
--⚡Languages and Tools:
+-⚡Languages and Tools: 
 JavaScript | Python | React | Redux-Toolkit | Material-Ui | Express | NodeJs | Sequelize | PostgreSQL
 
 
-- 📫 How to reach me: ...
+- 📫 How to reach me: 
 baezbuchananpatricio@gmail.com
 [Linkedin](https://www.linkedin.com/in/patriciobaezbuchanan/)
 
