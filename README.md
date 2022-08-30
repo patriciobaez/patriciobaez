@@ -1,4 +1,16 @@
-### Hi there 👋
+### Hello, I´m Patricio Baez
+
+Full stack web developer
+
+
+-⚡Languages and Tools:
+JavaScript | Python | React | Redux-Toolkit | Material-Ui | Express | NodeJs | Sequelize | PostgreSQL
+
+
+- 📫 How to reach me: ...
+baezbuchananpatricio@gmail.com
+[Linkedin](https://www.linkedin.com/in/patriciobaezbuchanan/)
+
 
 <!--
 **patriciobaez/patriciobaez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
