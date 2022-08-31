@@ -4,8 +4,6 @@ I am a Full Stack Web developer, who completed the Henry bootcamp. At Henry I wo
 
 I have experiencie with: JavaScript, React, Redux-Toolkit, Material-Ui, Express, NodeJs, Sequelize, PostgreSQL, Python
 
-My GitHub: https://github.com/patriciobaez
-
 Contact information:
 baezbuchananpatricio@gmail.com
 
