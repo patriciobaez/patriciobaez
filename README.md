@@ -1,16 +1,13 @@
 ### Hello, I´m Patricio Baez
 
-Full stack web developer
+I am a Full Stack Web developer, who completed the Henry bootcamp. At Henry I worked in multiple proyects for more than 800 hours and learned how to get organized when making a proyect as well as to work as a team with the SCRUM methodology.
 
+I have experiencie with: JavaScript, React, Redux-Toolkit, Material-Ui, Express, NodeJs, Sequelize, PostgreSQL, Python
 
--⚡Languages and Tools: 
-JavaScript | Python | React | Redux-Toolkit | Material-Ui | Express | NodeJs | Sequelize | PostgreSQL
+My GitHub: https://github.com/patriciobaez
 
-
-- 📫 How to reach me: 
+Contact information:
 baezbuchananpatricio@gmail.com
-[Linkedin](https://www.linkedin.com/in/patriciobaezbuchanan/)
-
 
 <!--
 **patriciobaez/patriciobaez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
