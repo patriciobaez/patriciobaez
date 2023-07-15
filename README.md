@@ -1,8 +1,6 @@
 ### Hello, I´m Patricio Baez
 
-I am a Full Stack Web developer, who completed the Henry bootcamp. At Henry I worked in multiple proyects for more than 800 hours and learned how to get organized when making a proyect as well as to work as a team with the SCRUM methodology.
-
-I have experiencie with: JavaScript, React, Redux-Toolkit, Material-Ui, Express, NodeJs, Sequelize, PostgreSQL, Python
+I am a software developer, who completed the Henry bootcamp. Currently working at MercadoLibre.
 
 Contact information:
 baezbuchananpatricio@gmail.com
